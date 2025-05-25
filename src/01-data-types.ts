@@ -71,5 +71,5 @@ function getRandomNumber(): number {
   return Math.random();
 }
 
-const j: string = 'java'
-console.log(j)
+const t: string = 'java'
+console.log(t)
