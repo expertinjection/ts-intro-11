@@ -18,6 +18,9 @@ interface Manger {
     fullname: string,
     company: Company
 }
+interface Manger {
+    age?: number
+}
 
 const m1: Manger = {
     id: 241241,
